@@ -1,0 +1,3 @@
+bskhaled_first_homepage:
+    path:     /first
+    defaults: { _controller: BskhaledFirstBundle:Default:index }
